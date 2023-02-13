@@ -14,8 +14,9 @@ Lim Zhi
 
 Steps
 ---------
-Create a new project in STM32CudeIDE
-Select the correct board (STM32F103C8)
-Define the leds as output and DIP switch as input
-Add code inside the while loop (core/src/main.c)
+1) Create a new project in STM32CudeIDE
+2) Select the correct board (STM32F103C8)
+3) Define the leds as output and DIP switch as input
+4) Add code inside the while loop (core/src/main.c)
+
 References : https://uk.rs-online.com/web/content/discovery/ideas-and-advice/dip-switches-guide
